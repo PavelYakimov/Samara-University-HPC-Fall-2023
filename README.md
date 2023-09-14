@@ -27,7 +27,7 @@
 
 [Ссылка в Google Drive на таблицу с результатами по лабораторным работам](https://docs.google.com/spreadsheets/d/1Hy29YfSZyxP4r9vJVFTP_Vdd2OwS63piMizrSezpgDI/edit?usp=sharing)
 
-1. [Matrix Multiplication, 0 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/Lab0_MatMul.pdf)
+1. [Matrix Multiplication, 0 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/12605018/Lab0_MatMul.pdf)
 2. [VectorSum.pdf, 1 point](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/Lab1_VectorSum.pdf)
 3. [Bilateral Filtering, 2 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/bilateral.pdf)
 4. [Bilinear Interpolation, 1 point](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/bilinear_interpolation.pdf)
