@@ -41,6 +41,8 @@
 12. Compare Intel GPU vs Nvidia GPU vs Apple M1/M2 (please, refer to the lecturer), 3-4 points
 13. Custom Task, 1-9 points (depends on the complexity of the provided task)
 
+Если по какой-то причине pdf с лабами взять не удаётся, то можно вот [тут забрать](https://ssauru-my.sharepoint.com/:f:/g/personal/yakimov_pyu_ssau_ru/EupFT8y4noVAniSoZAdADkEBnOIJqw7byyoTCX1H9lagxQ?e=QHhoPf).
+
 # Сценарий проведения зачета
 
 Зачет будет проходить **TBD** с использоанием BBB и Zoom.
