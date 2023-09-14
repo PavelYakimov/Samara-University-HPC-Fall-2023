@@ -27,17 +27,17 @@
 
 [Ссылка в Google Drive на таблицу с результатами по лабораторным работам](https://docs.google.com/spreadsheets/d/1Hy29YfSZyxP4r9vJVFTP_Vdd2OwS63piMizrSezpgDI/edit?usp=sharing)
 
-1. [Matrix Multiplication, 0 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/Lab0_MatMul.pdf)
-2. [VectorSum.pdf, 1 point](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/Lab1_VectorSum.pdf)
-3. [Bilateral Filtering, 2 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/bilateral.pdf)
-4. [Bilinear Interpolation, 1 point](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/bilinear_interpolation.pdf)
-5. [Genetic Algorithm, 3 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/genetic_algorithm.pdf)
-6. [Harris Detector, 2 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/harris_algorithm.pdf)
-7. [Substrings Search, 2 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/mass_search.pdf)
-8. [Pi-value Calculation, 1 point](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/pi_monte_carlo.pdf)
-9. [Ray Tracing, 4 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/ray_tracing.pdf)
-10. [Salt and Pepper, 2 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/salt_and_pepper.pdf)
-11. [Spectrogram, 2.5 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/blob/main/spectrogram.pdf)
+1. [Matrix Multiplication, 0 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/Lab0_MatMul.pdf)
+2. [VectorSum.pdf, 1 point](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/Lab1_VectorSum.pdf)
+3. [Bilateral Filtering, 2 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/bilateral.pdf)
+4. [Bilinear Interpolation, 1 point](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/bilinear_interpolation.pdf)
+5. [Genetic Algorithm, 3 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/genetic_algorithm.pdf)
+6. [Harris Detector, 2 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/harris_algorithm.pdf)
+7. [Substrings Search, 2 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/mass_search.pdf)
+8. [Pi-value Calculation, 1 point](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/pi_monte_carlo.pdf)
+9. [Ray Tracing, 4 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/ray_tracing.pdf)
+10. [Salt and Pepper, 2 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/salt_and_pepper.pdf)
+11. [Spectrogram, 2.5 points](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/blob/main/spectrogram.pdf)
 12. Compare Intel GPU vs Nvidia GPU vs Apple M1/M2 (please, refer to the lecturer), 3-4 points
 13. Custom Task, 1-9 points (depends on the complexity of the provided task)
 
