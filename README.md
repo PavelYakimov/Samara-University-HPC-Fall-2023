@@ -19,9 +19,9 @@
 - Lecture 2 (10.10.2023, 20:25): Introduction to CUDA (Part 2) [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1696953796709)
 - Lecture 3 (07.11.2023, 20:25): GPU Memory [слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13284444/2_en_Memory.pdf), 
  [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1699373975863)
-- Lecture 4 (21.11.2023, 20:25): GPU libraries [ссылка на подключение](https://bbb.ssau.ru/b/qc4-0ar-d3g-ehr)
-- Lecture 5 (05.12.2023, 20:25): Thrust [ссылка на подключение](https://bbb.ssau.ru/b/qc4-0ar-d3g-ehr)
-- Lecture 6 (19.12.2023, 20:25): Multi-GPU [ссылка на подключение](https://bbb.ssau.ru/b/964-em4-g9g-jiu)
+- Lecture 4 (21.11.2023, 20:25): GPU libraries [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1700583367537)
+- Lecture 5 (19.12.2023, 18:45): Thrust [ссылка на подключение](https://bbb.ssau.ru/b/qc4-0ar-d3g-ehr)
+- Lecture 6 Multi-GPU [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1670239428160)
 
 
 # Лабораторные работы
