@@ -19,9 +19,16 @@
 - Lecture 2 (10.10.2023, 20:25): Introduction to CUDA (Part 2) [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1696953796709)
 - Lecture 3 (07.11.2023, 20:25): GPU Memory [слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13284444/2_en_Memory.pdf), 
  [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1699373975863)
-- Lecture 4 (21.11.2023, 20:25): GPU libraries [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1700583367537)
-- Lecture 5 (19.12.2023, 18:45): Thrust [ссылка на подключение](https://bbb.ssau.ru/b/qc4-0ar-d3g-ehr)
-- Lecture 6 Multi-GPU [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1670239428160)
+- Lecture 4 (21.11.2023, 20:25):[слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13716734/3_libraries.pdf)
+ GPU libraries [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1700583367537)
+- Lecture 5 (19.12.2023, 18:45): [слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13716740/4_thrust.pdf)
+Thrust [ссылка на подключение](https://bbb.ssau.ru/b/qc4-0ar-d3g-ehr)
+- Lecture 6 Multi-GPU [слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13716745/5_mpgu_compressed.pdf)
+ [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1670239428160)
+
+Дополнительные материалы, которые не вошли в основной курс лекций:
+- [PyCuda](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13716753/6_pycuda-ru.pdf)
+- [CUDA Profiling](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13716754/7_Profiling.pdf)
 
 
 # Лабораторные работы
@@ -46,7 +53,7 @@
 
 # Сценарий проведения зачета
 
-Зачет будет проходить 12 января 2024 года с использоанием BBB и Zoom.
+Зачет будет проходить 12 января 2024 года в 10:00 с использоанием BBB и Zoom.
 
 Вначале вам необходимо подключиться в BBB ([ссылка на подключение](https://bbb.ssau.ru/b/2zr-gce-svd-2pr)). Там будет вся оперативная информация, там же появится ссылка на тест.
 
