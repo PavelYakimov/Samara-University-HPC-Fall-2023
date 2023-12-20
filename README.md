@@ -22,7 +22,7 @@
 - Lecture 4 (21.11.2023, 20:25): GPU libraries [слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13716734/3_libraries.pdf), 
  [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1700583367537)
 - Lecture 5 (19.12.2023, 18:45): Thrust [слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13716740/4_thrust.pdf), 
-[ссылка на запись]https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1702996976368)
+[ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/fec7be3d2b21441b70da3feb5ebfd7ae5fe11744-1702996976368)
 - Lecture 6 Multi-GPU [слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2023/files/13716745/5_mpgu_compressed.pdf), 
  [ссылка на запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1670239428160)
 
